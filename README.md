@@ -1,4 +1,4 @@
-# 🧪 Drug Toxicity Predictor (AI + Explainability)
+# 🧪 Drug Toxicity Predictor Model
 
 An end-to-end machine learning project that predicts **chemical toxicity from SMILES strings** using advanced ensemble models and explainable AI.
 
